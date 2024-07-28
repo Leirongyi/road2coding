@@ -15,7 +15,7 @@ export default {
     "/0005-Bug手册/": BugFixManual,
     "/0006-面试指南/": InterviewSideBar,
     "/0007-other/": OtherShareSideBar,
-    "/0008-个人/": ["", "个人经历"],
+    "/0008-个人/": ["", "个人"],
     // 降级，默认根据文章标题渲染侧边栏
     "/": "auto",
 } as SidebarConfig4Multiple;
