@@ -6,7 +6,10 @@ export default [
         link: '/0001-后端开发/',
         items: [
             {
-                text: "java", link: "/0001-后端开发/#java",
+                text: "basic", link: "/0001-后端开发/#basic",
+            },
+            {
+                text: "Java", link: "/0001-后端开发/#java",
             },
             {
                 text: "Spring", link: "/0001-后端开发/#spring",
@@ -30,7 +33,7 @@ export default [
                 text: "Node", link: "/0002-前端开发/#node",
             },
             {
-                text: "react", link: "/0002-前端开发/#react",
+                text: "React", link: "/0002-前端开发/#react",
             },
             {
                 text: "Vue", link: "/0002-前端开发/#vue",
@@ -61,7 +64,7 @@ export default [
                 text: "Git", link: "/0004-运维/#Git",
             },
             {
-                text: "docker", link: "/0004-运维/#docker",
+                text: "Docker", link: "/0004-运维/#docker",
             },
             {
                 text: "云原生", link: "/0004-运维/#云原生",

@@ -1,7 +1,14 @@
 
 # 后端开发
 
-## java
+
+## basic
+
+[开发规范](basic/开发规范.md)
+
+[技术词汇规范](basic/技术词汇规范.md)
+
+## Java
 
 ⭐️ [JavaDemo](java/JavaDemo.md)
 

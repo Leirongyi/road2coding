@@ -1,6 +1,14 @@
 export default [
     "",
     {
+        title: "basic",
+        collapsable: true,
+        children: [
+            "basic/开发规范",
+            "basic/技术词汇规范",
+        ],
+    },
+    {
         title: "java",
         collapsable: true,
         children: [

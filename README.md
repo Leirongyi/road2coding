@@ -13,7 +13,7 @@ Java、SQL、计算机基础、数据结构和算法、设计模式.
 
 ## [前端开发](/0002-前端开发/)
 
-node、react、vue.
+Node、React、Vue.
 
 ## [算法](/0003-算法/)
 
@@ -21,7 +21,7 @@ node、react、vue.
 
 ## [运维](/0004-运维/)
 
-Git & GitHub、Linux、docker、k8s.
+Git & GitHub、Linux、Docker、K8s.
 
 
 ## [Bug修复手册](/0005-Bug手册/)
